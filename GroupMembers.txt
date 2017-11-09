@@ -1,4 +1,8 @@
 Group members:
 
 Charles Crisostomo
+<<<<<<< HEAD
 Miggie Rodriguez
+=======
+Aldrian Benedicto
+>>>>>>> eca03b0822409fc93f775c770d031541006d6ed9
